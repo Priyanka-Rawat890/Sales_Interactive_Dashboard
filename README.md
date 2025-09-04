@@ -51,9 +51,8 @@ The dashboard was designed to help stakeholders:
 
 ## 🔗 Live Project Access  
 - 🖼️ **Power BI Dashboard (Preview):** See screenshot above  
-- 📂 **PBIX File:** [Download from GitHub](PASTE_GITHUB_PBIX_LINK_HERE)  
+- 📂 **PBIX File:** [Download from GitHub](https://github.com/Priyanka-Rawat890/Sales_Interactive_Dashboard/blob/main/PowerBI%20Project%20-%20Mobile%20Sales%20Dashboard.pbix)  
 
-*(Since Power BI requires login to publish, provide the `.pbix` file here and screenshots for preview. Recruiters can still download and open if they wish.)*  
 
 ---
 
