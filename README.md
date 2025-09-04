@@ -45,9 +45,7 @@ The dashboard was designed to help stakeholders:
 ## 📸 Dashboard Preview  
 
 ### Power BI Dashboard  
-![Motorola Dashboard](images/motorola_powerbi_dashboard.png)  
-
-*(Upload a screenshot of your dashboard and save it as `images/motorola_powerbi_dashboard.png`)*  
+![Motorola Dashboard](sales_dashboard_powerbi.png)  
 
 ---
 
